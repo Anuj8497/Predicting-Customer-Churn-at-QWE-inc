@@ -1,6 +1,7 @@
 # Predicting-Customer-Churn-at-QWE-inc
 
-In this project, I have to tried to follow up on the events of the case study. The dataset contains financial information of Indian Firms. 
-Developed various Machine Learning models like Logistic Regression, Decision Trees, Random Forest, Ada Boosting to predict Manipulators. 
-To overcome class imbalance, I have also applied undersampling. Also did ROC analysis for Logisitc regression model 
-And then I have presented my recommendations for MCA Technologies. The case study is in the .pdf file
+In this project, I have to tried to follow up on the events of the case study. The dataset contains Customer information of QWE Inc. 
+then prepared a Logistic regression model that predicts the probability whether the customer will continue QWE's service or not. 
+Q1) Checks whether customer age has any effect on Customer Churn
+Q2) Documents the steps followed to prepare a better model.
+Q3) Documents top drivers for Customer Churn
